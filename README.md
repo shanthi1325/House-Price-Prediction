@@ -35,9 +35,10 @@ Columns include:
 - `balcony`  
 
 ## 🚀 How to Run the Streamlit App
-1. Make sure you have Streamlit installed:
+1. Make sure you have Streamlit installed and run:
    ```bash
    pip install streamlit
+   streamlit run app.py  
 **Power BI dashboard** for visual analysis of house prices.  
 ## 📊 Power BI Dashboard
 A **House Price Dashboard** is created using Power BI.
