@@ -46,3 +46,5 @@ A **House Price Dashboard** is created using Power BI.
 - Price trends based on area, bedrooms, bathrooms, and balconies.
 - Interactive visualizations and slicers for filtering.
 The dashboard helps in analyzing patterns and insights before making predictions.
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/a25e9c0c-ba86-4fe4-a19d-49dd466d89ae" />
+
