@@ -5,7 +5,7 @@ This project predicts house prices based on various features such as area, numbe
 **Streamlit web app** for interactive predictions.
 ## ⚙️ Technologies Used
 - Python  
-- Pandas & NumPy  
+- Pandas & NumPy 
 - Scikit-learn  
 - Pickle (for saving/loading models)  
 - Streamlit (for web app)  
